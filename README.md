@@ -6,3 +6,4 @@ Currency conversion languages (dollar, euro - Brazilian real) used: HTML5, CSS3 
 ## Next
 - [X] Update layout
 - [X] Add API for cryptocurrency conversion
+- [X] Compilated project in React
